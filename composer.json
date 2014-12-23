@@ -1,0 +1,20 @@
+{
+    "name": "rock/fmt",
+    "description": "Format Tools for php 5.1.6",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andre Nils",
+            "email": "nilzao@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.1.6",
+        "rock/datet" : "1.0.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
