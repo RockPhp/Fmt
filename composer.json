@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=5.1.6",
-        "rock/datet" : "1.0.1"
+        "rock/datet" : ">=1.0.4"
     },
     "autoload": {
         "psr-0": {
